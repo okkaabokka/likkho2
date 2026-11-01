@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="likkho_bg">#FFFFFF</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+
+    <style name="Theme.Likkho" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/likkho_bg</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+</resources>
